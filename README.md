@@ -1,4 +1,4 @@
-# Customer Orders Data leaning Pipeline | SQL
+# Customer Orders Data Cleaning Pipeline | SQL
 
 ## Project Objective
 In industry, raw data is rarely ready for immediate analysis. This project demonstrates a comprehensive data cleaning pipeline built to transform messy, inconsistent and raw ecommerce sales data into a structured production ready format. 
